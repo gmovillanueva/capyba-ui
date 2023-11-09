@@ -1,4 +1,3 @@
-
 const CurrentYear = new Date().getFullYear();
 
 const TwitterIcon = () => {
