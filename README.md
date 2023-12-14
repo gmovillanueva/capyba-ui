@@ -1,38 +1,34 @@
 <!-- Intro Section-->
-<div align="center" >
+# Capyba UI
+
 [Capyba UI](https://github.com/gmovillanueva/capyba-ui) is a free, open-source collection
 of UI elements based on TailwindCSS, making it easy to place together to create websites.
 
 Originally started as a collection of elements used for quickly prototyping designs with minor overhead. I decided to go ahead and release it into the wild.
 
-<div>
-
 <!-- Features Section-->
-<h1 align="left">Features</h1>
-<br/>
-   - [x] Wrote most of the README
+## Features
+
+- [x] Wrote most of the README
 
 <!-- Upcoming Features Section-->
-<h1 align="left">Upcoming Features</h1>
-<br/>
+## Upcoming Features
+
 Still working on a roadmap...
 
 <!-- Installation Section-->
-<h1 align="left">Installation</h1>
-<br/>
+## Installation
+
 There is nothing to install!
 
 <!-- Usage Section-->
-<h1 align="left">Usage</h1>
-<br/>
+## Usage
 
 <!-- Development Section-->
-<h1 align="left">Development</h1>
-<br/>
+## Development
 
 <!-- Contributing Section-->
-<h1 align="left">Contributing</h1>
-<br/>
+## Contributing
 
 Feel like contributing?
 Go ahead!
@@ -40,11 +36,10 @@ Go ahead!
 Still working on setting up a contributing guide.
 
 <!-- License Section-->
-<h1 align="left">License</h1>
-<br/>
+## License
+
 [MIT License](https://choosealicense.com/licenses/mit/)
 
-<br/>
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
